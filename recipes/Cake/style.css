@@ -1,0 +1,37 @@
+body {
+    background-color: #FAF9F6; 
+    font-style: italic;
+    font-family: "San Francisco", "Neue Helvetica", "Avenir", "Lucida Grande", "Times New Roman", sans-serif;;
+  }
+  h1{
+    text-align: center;
+    font-weight: 300;
+}
+img{
+    width: 100%;
+    height: auto;  
+}
+.desc{
+    text-align: center;
+    font-weight: 300;
+    
+}
+p{
+    text-align: center;
+}
+.head{
+    display: flex;
+}
+.head .Ing{
+    margin-left: 30px;
+}
+
+.head .step{
+    margin-left: 610px;
+}
+.list{
+    display: flex;
+    background-color: bisque;
+    padding: 20px;
+    border-radius: 20px;
+}
